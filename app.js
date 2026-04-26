@@ -11,9 +11,10 @@ scene.background = new THREE.Color(0xddeeff);
 // ─────────────────────────────────────────────
 // 2. CÁMARA — centrada en el plano real (X: -62..205, Z: 49..403)
 // ─────────────────────────────────────────────
+const ALTURA_OJOS = 17; // 1.7m escalado (el plano usa ~10 unidades = 1 metro aprox)
 const camera = new THREE.PerspectiveCamera(75, window.innerWidth / window.innerHeight, 0.1, 5000);
-camera.position.set(70, 10, 500);
-camera.lookAt(70, 10, 220);
+camera.position.set(70, ALTURA_OJOS, 500);
+camera.lookAt(70, ALTURA_OJOS, 220);
 
 // ─────────────────────────────────────────────
 // 3. RENDERIZADOR VR
@@ -257,18 +258,22 @@ document.addEventListener('click', () => {
     if (!renderer.xr.isPresenting) controls.lock();
 });
 
-const mover = { adelante: false, atras: false, izquierda: false, derecha: false };
+const mover = { adelante: false, atras: false, izquierda: false, derecha: false, girarIzq: false, girarDer: false };
 document.addEventListener('keydown', e => {
-    if (e.code === 'KeyW') mover.adelante  = true;
-    if (e.code === 'KeyS') mover.atras     = true;
-    if (e.code === 'KeyA') mover.izquierda = true;
-    if (e.code === 'KeyD') mover.derecha   = true;
+    if (e.code === 'KeyW') mover.adelante   = true;
+    if (e.code === 'KeyS') mover.atras      = true;
+    if (e.code === 'KeyA') mover.izquierda  = true;
+    if (e.code === 'KeyD') mover.derecha    = true;
+    if (e.code === 'KeyQ') mover.girarIzq   = true;
+    if (e.code === 'KeyE') mover.girarDer   = true;
 });
 document.addEventListener('keyup', e => {
-    if (e.code === 'KeyW') mover.adelante  = false;
-    if (e.code === 'KeyS') mover.atras     = false;
-    if (e.code === 'KeyA') mover.izquierda = false;
-    if (e.code === 'KeyD') mover.derecha   = false;
+    if (e.code === 'KeyW') mover.adelante   = false;
+    if (e.code === 'KeyS') mover.atras      = false;
+    if (e.code === 'KeyA') mover.izquierda  = false;
+    if (e.code === 'KeyD') mover.derecha    = false;
+    if (e.code === 'KeyQ') mover.girarIzq   = false;
+    if (e.code === 'KeyE') mover.girarDer   = false;
 });
 
 // ─────────────────────────────────────────────
@@ -281,6 +286,11 @@ renderer.setAnimationLoop(() => {
         if (mover.atras)     controls.moveForward(-vel);
         if (mover.izquierda) controls.moveRight(-vel);
         if (mover.derecha)   controls.moveRight(vel);
+        if (mover.girarIzq)  controls.getObject().rotation.y += 0.03;
+        if (mover.girarDer)  controls.getObject().rotation.y -= 0.03;
+
+        // Fijar altura de ojos — no puede subir ni bajar
+        controls.getObject().position.y = ALTURA_OJOS;
     }
     renderer.render(scene, camera);
 });
