@@ -1,0 +1,1367 @@
+{
+  "elements": [
+    {
+      "id": 100,
+      "type": "wall",
+      "name": "Pared Norte",
+      "x1": 8.628444444444439,
+      "y1": 49.79888888888889,
+      "x2": 168.72844444444442,
+      "y2": 49.79888888888889
+    },
+    {
+      "id": 103,
+      "type": "wall",
+      "name": "Pared Oeste",
+      "x1": -62.61622222222222,
+      "y1": 403.07466666666664,
+      "x2": -62.61622222222222,
+      "y2": 130.12466666666666
+    },
+    {
+      "id": 104,
+      "type": "wall",
+      "name": "Pared Escalón H",
+      "x1": -62.61622222222222,
+      "y1": 129.6238888888889,
+      "x2": 5.623777777777779,
+      "y2": 129.6238888888889
+    },
+    {
+      "id": 7,
+      "type": "gondola",
+      "x1": 144.18,
+      "y1": 64.65,
+      "x2": 159.73,
+      "y2": 127.21,
+      "name": "16"
+    },
+    {
+      "id": 8,
+      "type": "gondola",
+      "x1": 144.94,
+      "y1": 144.74,
+      "x2": 158.97,
+      "y2": 216.02,
+      "name": "9"
+    },
+    {
+      "id": 14,
+      "type": "gondola",
+      "x1": 110.64,
+      "y1": 63.83,
+      "x2": 127.2,
+      "y2": 127.1,
+      "name": "17"
+    },
+    {
+      "id": 15,
+      "type": "gondola",
+      "x1": 80.06,
+      "y1": 64.25,
+      "x2": 95.35,
+      "y2": 127.1,
+      "name": "18"
+    },
+    {
+      "id": 16,
+      "type": "gondola",
+      "x1": 48.64,
+      "y1": 64.68,
+      "x2": 63.5,
+      "y2": 127.95,
+      "name": "19"
+    },
+    {
+      "id": 17,
+      "type": "gondola",
+      "x1": 16.796433897051898,
+      "y1": 63.83,
+      "x2": 32.5164338970519,
+      "y2": 127.1,
+      "name": "20"
+    },
+    {
+      "id": 18,
+      "type": "gondola",
+      "x1": 113.19,
+      "y1": 143.66,
+      "x2": 128.05,
+      "y2": 215.85,
+      "name": "10"
+    },
+    {
+      "id": 19,
+      "type": "gondola",
+      "x1": 79.64,
+      "y1": 143.66,
+      "x2": 95.77,
+      "y2": 215.43,
+      "name": "11"
+    },
+    {
+      "id": 20,
+      "type": "gondola",
+      "x1": 46.94,
+      "y1": 144.09,
+      "x2": 63.93,
+      "y2": 215.43,
+      "name": "12"
+    },
+    {
+      "id": 21,
+      "type": "gondola",
+      "x1": 15.94,
+      "y1": 143.24,
+      "x2": 31.65,
+      "y2": 216.28,
+      "name": "13"
+    },
+    {
+      "id": 22,
+      "type": "gondola",
+      "x1": -16.33,
+      "y1": 142.81,
+      "x2": 0.65,
+      "y2": 217.13,
+      "name": "14"
+    },
+    {
+      "id": 23,
+      "type": "gondola",
+      "x1": -48.61,
+      "y1": 143.66,
+      "x2": -31.62,
+      "y2": 216.7,
+      "name": "15"
+    },
+    {
+      "id": 31,
+      "type": "gondola",
+      "x1": 142.97827082100827,
+      "y1": 232.22,
+      "x2": 159.11827082100828,
+      "y2": 296.34,
+      "name": "2"
+    },
+    {
+      "id": 32,
+      "type": "gondola",
+      "x1": 173.78643810053396,
+      "y1": 239.85341090834163,
+      "x2": 189.06643810053396,
+      "y2": 295.06341090834167,
+      "name": "1"
+    },
+    {
+      "id": 33,
+      "type": "gondola",
+      "x1": 112.94,
+      "y1": 232.22,
+      "x2": 129.07,
+      "y2": 295.07,
+      "name": "3"
+    },
+    {
+      "id": 34,
+      "type": "gondola",
+      "x1": 79.78207111943485,
+      "y1": 232.22,
+      "x2": 95.49207111943485,
+      "y2": 247.08,
+      "name": "4C"
+    },
+    {
+      "id": 35,
+      "type": "gondola",
+      "x1": 79.39,
+      "y1": 255.15,
+      "x2": 94.25,
+      "y2": 271.29,
+      "name": "4B"
+    },
+    {
+      "id": 36,
+      "type": "gondola",
+      "x1": 79.82,
+      "y1": 279.78,
+      "x2": 94.25,
+      "y2": 295.07,
+      "name": "4A"
+    },
+    {
+      "id": 37,
+      "type": "gondola",
+      "x1": 47.89431093234248,
+      "y1": 233.02715546617122,
+      "x2": 63.60431093234248,
+      "y2": 295.87715546617125,
+      "name": "5"
+    },
+    {
+      "id": 38,
+      "type": "gondola",
+      "x1": 16.12,
+      "y1": 232.22,
+      "x2": 31.83,
+      "y2": 296.34,
+      "name": "6"
+    },
+    {
+      "id": 39,
+      "type": "gondola",
+      "x1": -16.904132652764815,
+      "y1": 232.22,
+      "x2": -0.7641326527648169,
+      "y2": 296.34,
+      "name": "7"
+    },
+    {
+      "id": 40,
+      "type": "gondola",
+      "x1": -48.19,
+      "y1": 232.22,
+      "x2": -32.05,
+      "y2": 296.34,
+      "name": "8"
+    },
+    {
+      "id": 41,
+      "type": "entrance",
+      "x1": -62.52955854135635,
+      "y1": 350.2028755243695,
+      "x2": -56.45955854135635,
+      "y2": 400.25287552436953,
+      "name": "Entrada 1"
+    },
+    {
+      "id": 42,
+      "type": "caja",
+      "x1": 24.62569987161096,
+      "y1": 336.022712804924,
+      "x2": 40.93569987161096,
+      "y2": 352.702712804924,
+      "name": "Caja 1"
+    },
+    {
+      "id": 43,
+      "type": "caja",
+      "x1": 49.23139974322191,
+      "y1": 336.402712804924,
+      "x2": 67.4313997432219,
+      "y2": 353.462712804924,
+      "name": "Caja 2"
+    },
+    {
+      "id": 44,
+      "type": "caja",
+      "x1": 77.55121216297874,
+      "y1": 336.402712804924,
+      "x2": 94.61121216297875,
+      "y2": 353.462712804924,
+      "name": "Caja 3"
+    },
+    {
+      "id": 45,
+      "type": "caja",
+      "x1": 108.64121216297876,
+      "y1": 335.5446752888754,
+      "x2": 126.84121216297878,
+      "y2": 352.6046752888754,
+      "name": "Caja 4"
+    },
+    {
+      "id": 210,
+      "type": "wall",
+      "name": "Pared 210",
+      "x1": 6.9631662553394325,
+      "y1": 49.563210054630794,
+      "x2": 6.9631662553394325,
+      "y2": 129.60338808777553
+    },
+    {
+      "id": 211,
+      "type": "wall",
+      "name": "Pared 211",
+      "x1": 169.56686589327376,
+      "y1": 49.73833481332728,
+      "x2": 169.25717545765409,
+      "y2": 221.61652658224943
+    },
+    {
+      "id": 218,
+      "type": "wall",
+      "name": "Pared 218",
+      "x1": 161.79688880532862,
+      "y1": 342.120823450823,
+      "x2": 203.53273916308063,
+      "y2": 341.38213583387164
+    },
+    {
+      "id": 219,
+      "type": "wall",
+      "name": "Pared 219",
+      "x1": -62.67235341200489,
+      "y1": 402.93936161200367,
+      "x2": 160.49272872493387,
+      "y2": 402.65758751839644
+    },
+    {
+      "id": 220,
+      "type": "wall",
+      "name": "Pared 220",
+      "x1": -62.108805224790395,
+      "y1": 339.2584164567661,
+      "x2": 21.29632648295439,
+      "y2": 338.41309417594437
+    },
+    {
+      "id": 221,
+      "type": "wall",
+      "name": "Pared 221",
+      "x1": -39.590112795776214,
+      "y1": 277.21373987846573,
+      "x2": -39.590112795776214,
+      "y2": 277.21373987846573
+    },
+    {
+      "id": 222,
+      "type": "wall",
+      "name": "Pared 222",
+      "x1": -39.590112795776214,
+      "y1": 277.21373987846573,
+      "x2": -39.590112795776214,
+      "y2": 277.21373987846573
+    },
+    {
+      "id": 223,
+      "type": "wall",
+      "name": "Pared 223",
+      "x1": -39.590112795776214,
+      "y1": 277.21373987846573,
+      "x2": -39.590112795776214,
+      "y2": 277.21373987846573
+    },
+    {
+      "id": 225,
+      "type": "wall",
+      "name": "Pared 221",
+      "x1": 205.03535159516787,
+      "y1": 222.0287475072522,
+      "x2": 204.1773140791192,
+      "y2": 339.5798872059146
+    },
+    {
+      "id": 230,
+      "type": "wall",
+      "name": "Pared 230",
+      "x1": 161.2754382766877,
+      "y1": 343.0120372701091,
+      "x2": 160.41740076063905,
+      "y2": 402.2166258774646
+    },
+    {
+      "id": 233,
+      "type": "wall",
+      "name": "Pared 233",
+      "x1": 169.36412432670687,
+      "y1": 221.82789512284472,
+      "x2": 204.9279148112455,
+      "y2": 222.14828963171445
+    }
+  ],
+  "gondolaData": {
+    "7": {
+      "faces": {
+        "N": {
+          "cols": 2,
+          "rows": 1,
+          "cells": {}
+        }
+      }
+    },
+    "8": {
+      "faces": {
+        "S": {
+          "cols": 4,
+          "rows": 2,
+          "cells": {}
+        },
+        "E": {
+          "cols": 4,
+          "rows": 2,
+          "cells": {}
+        }
+      }
+    },
+    "14": {
+      "faces": {
+        "E": {
+          "cols": 8,
+          "rows": 1,
+          "cells": {}
+        },
+        "W": {
+          "cols": 2,
+          "rows": 1,
+          "cells": {}
+        },
+        "S": {
+          "cols": 4,
+          "rows": 2,
+          "cells": {}
+        }
+      }
+    },
+    "15": {
+      "faces": {
+        "W": {
+          "cols": 8,
+          "rows": 1,
+          "cells": {}
+        },
+        "E": {
+          "cols": 4,
+          "rows": 2,
+          "cells": {}
+        }
+      }
+    },
+    "17": {
+      "faces": {
+        "E": {
+          "cols": 4,
+          "rows": 2,
+          "cells": {}
+        }
+      }
+    },
+    "20": {
+      "faces": {
+        "N": {
+          "cols": 1,
+          "rows": 1,
+          "cells": {}
+        },
+        "E": {
+          "cols": 4,
+          "rows": 2,
+          "cells": {}
+        }
+      }
+    },
+    "22": {
+      "faces": {
+        "E": {
+          "cols": 7,
+          "rows": 1,
+          "cells": {
+            "0_0": {
+              "imgData": "fotos/el22_E_0_0.jpg",
+              "name": "14 Este F1 C1",
+              "regions": []
+            },
+            "0_1": {
+              "imgData": "fotos/el22_E_0_1.jpg",
+              "name": "14 Este F1 C2",
+              "regions": []
+            },
+            "0_2": {
+              "imgData": "fotos/el22_E_0_2.jpg",
+              "name": "14 Este F1 C3",
+              "regions": []
+            },
+            "0_3": {
+              "imgData": "fotos/el22_E_0_3.jpg",
+              "name": "14 Este F1 C4",
+              "regions": []
+            },
+            "0_4": {
+              "imgData": "fotos/el22_E_0_4.jpg",
+              "name": "14 Este F1 C5",
+              "regions": []
+            },
+            "0_5": {
+              "imgData": "fotos/el22_E_0_5.jpg",
+              "name": "14 Este F1 C6",
+              "regions": []
+            },
+            "0_6": {
+              "imgData": "fotos/el22_E_0_6.jpg",
+              "name": "14 Este F1 C7",
+              "regions": []
+            }
+          }
+        },
+        "W": {
+          "cols": 6,
+          "rows": 1,
+          "cells": {
+            "0_0": {
+              "imgData": "fotos/el22_W_0_0.jpg",
+              "name": "14 Oeste F1 C1",
+              "regions": []
+            },
+            "0_1": {
+              "imgData": "fotos/el22_W_0_1.jpg",
+              "name": "14 Oeste F1 C2",
+              "regions": []
+            },
+            "0_2": {
+              "imgData": "fotos/el22_W_0_2.jpg",
+              "name": "14 Oeste F1 C3",
+              "regions": []
+            },
+            "0_3": {
+              "imgData": "fotos/el22_W_0_3.jpg",
+              "name": "14 Oeste F1 C4",
+              "regions": []
+            },
+            "0_4": {
+              "imgData": "fotos/el22_W_0_4.jpg",
+              "name": "14 Oeste F1 C5",
+              "regions": []
+            },
+            "0_5": {
+              "imgData": "fotos/el22_W_0_5.jpg",
+              "name": "14 Oeste F1 C6",
+              "regions": []
+            }
+          }
+        },
+        "N": {
+          "cols": 1,
+          "rows": 1,
+          "cells": {
+            "0_0": {
+              "imgData": "fotos/el22_N_0_0.jpg",
+              "name": "14 Norte F1 C1",
+              "regions": []
+            }
+          }
+        },
+        "S": {
+          "cols": 1,
+          "rows": 1,
+          "cells": {
+            "0_0": {
+              "imgData": "fotos/el22_S_0_0.jpg",
+              "name": "14 Sur F1 C1",
+              "regions": []
+            }
+          }
+        }
+      }
+    },
+    "23": {
+      "faces": {
+        "W": {
+          "cols": 5,
+          "rows": 1,
+          "cells": {
+            "0_0": {
+              "imgData": "fotos/el23_W_0_0.jpg",
+              "name": "15 Oeste F1 C1",
+              "regions": []
+            },
+            "0_1": {
+              "imgData": "fotos/el23_W_0_1.jpg",
+              "name": "15 Oeste F1 C2",
+              "regions": []
+            },
+            "0_2": {
+              "imgData": "fotos/el23_W_0_2.jpg",
+              "name": "15 Oeste F1 C3",
+              "regions": []
+            },
+            "0_3": {
+              "imgData": "fotos/el23_W_0_3.jpg",
+              "name": "15 Oeste F1 C4",
+              "regions": []
+            },
+            "0_4": {
+              "imgData": "fotos/el23_W_0_4.jpg",
+              "name": "15 Oeste F1 C5",
+              "regions": []
+            }
+          }
+        },
+        "N": {
+          "cols": 1,
+          "rows": 1,
+          "cells": {
+            "0_0": {
+              "imgData": "fotos/el23_N_0_0.jpg",
+              "name": "15 Norte F1 C1",
+              "regions": []
+            }
+          }
+        },
+        "E": {
+          "cols": 5,
+          "rows": 1,
+          "cells": {
+            "0_0": {
+              "imgData": "fotos/el23_E_0_0.jpg",
+              "name": "15 Este F1 C1",
+              "regions": []
+            },
+            "0_1": {
+              "imgData": "fotos/el23_E_0_1.jpg",
+              "name": "15 Este F1 C2",
+              "regions": []
+            },
+            "0_2": {
+              "imgData": "fotos/el23_E_0_2.jpg",
+              "name": "15 Este F1 C3",
+              "regions": []
+            },
+            "0_3": {
+              "imgData": "fotos/el23_E_0_3.jpg",
+              "name": "15 Este F1 C4",
+              "regions": []
+            },
+            "0_4": {
+              "imgData": "fotos/el23_E_0_4.jpg",
+              "name": "15 Este F1 C5",
+              "regions": []
+            }
+          }
+        },
+        "S": {
+          "cols": 1,
+          "rows": 1,
+          "cells": {
+            "0_0": {
+              "imgData": "fotos/el23_S_0_0.jpg",
+              "name": "15 Sur F1 C1",
+              "regions": []
+            }
+          }
+        }
+      }
+    },
+    "31": {
+      "faces": {
+        "E": {
+          "cols": 4,
+          "rows": 2,
+          "cells": {}
+        }
+      }
+    },
+    "34": {
+      "faces": {
+        "W": {
+          "cols": 4,
+          "rows": 2,
+          "cells": {}
+        },
+        "N": {
+          "cols": 4,
+          "rows": 2,
+          "cells": {}
+        },
+        "E": {
+          "cols": 4,
+          "rows": 2,
+          "cells": {}
+        }
+      }
+    },
+    "38": {
+      "faces": {
+        "W": {
+          "cols": 4,
+          "rows": 2,
+          "cells": {}
+        },
+        "S": {
+          "cols": 4,
+          "rows": 2,
+          "cells": {}
+        }
+      }
+    },
+    "39": {
+      "faces": {
+        "E": {
+          "cols": 7,
+          "rows": 1,
+          "cells": {
+            "0_0": {
+              "imgData": "fotos/el39_E_0_0.jpg",
+              "name": "7 Este F1 C1",
+              "regions": []
+            },
+            "0_1": {
+              "imgData": "fotos/el39_E_0_1.jpg",
+              "name": "7 Este F1 C2",
+              "regions": []
+            },
+            "0_2": {
+              "imgData": "fotos/el39_E_0_2.jpg",
+              "name": "7 Este F1 C3",
+              "regions": []
+            },
+            "0_3": {
+              "imgData": "fotos/el39_E_0_3.jpg",
+              "name": "7 Este F1 C4",
+              "regions": []
+            },
+            "0_4": {
+              "imgData": "fotos/el39_E_0_4.jpg",
+              "name": "7 Este F1 C5",
+              "regions": []
+            },
+            "0_5": {
+              "imgData": "fotos/el39_E_0_5.jpg",
+              "name": "7 Este F1 C6",
+              "regions": []
+            },
+            "0_6": {
+              "imgData": "fotos/el39_E_0_6.jpg",
+              "name": "7 Este F1 C7",
+              "regions": []
+            }
+          }
+        },
+        "S": {
+          "cols": 1,
+          "rows": 1,
+          "cells": {}
+        },
+        "W": {
+          "cols": 7,
+          "rows": 1,
+          "cells": {
+            "0_0": {
+              "imgData": "fotos/el39_W_0_0.jpg",
+              "name": "7 Oeste F1 C1",
+              "regions": []
+            },
+            "0_1": {
+              "imgData": "fotos/el39_W_0_1.jpg",
+              "name": "7 Oeste F1 C2",
+              "regions": []
+            },
+            "0_2": {
+              "imgData": "fotos/el39_W_0_2.jpg",
+              "name": "7 Oeste F1 C3",
+              "regions": []
+            },
+            "0_3": {
+              "imgData": "fotos/el39_W_0_3.jpg",
+              "name": "7 Oeste F1 C4",
+              "regions": []
+            },
+            "0_4": {
+              "imgData": "fotos/el39_W_0_4.jpg",
+              "name": "7 Oeste F1 C5",
+              "regions": []
+            },
+            "0_5": {
+              "imgData": "fotos/el39_W_0_5.jpg",
+              "name": "7 Oeste F1 C6",
+              "regions": []
+            },
+            "0_6": {
+              "imgData": "fotos/el39_W_0_6.jpg",
+              "name": "7 Oeste F1 C7",
+              "regions": []
+            }
+          }
+        },
+        "N": {
+          "cols": 1,
+          "rows": 1,
+          "cells": {
+            "0_0": {
+              "imgData": "fotos/el39_N_0_0.jpg",
+              "name": "7 Norte F1 C1",
+              "regions": []
+            }
+          }
+        }
+      }
+    },
+    "40": {
+      "faces": {
+        "N": {
+          "cols": 8,
+          "rows": 1,
+          "cells": {}
+        },
+        "W": {
+          "cols": 6,
+          "rows": 1,
+          "cells": {
+            "0_0": {
+              "imgData": "fotos/el40_W_0_0.jpg",
+              "name": "8 Oeste F1 C1",
+              "regions": []
+            },
+            "0_1": {
+              "imgData": "fotos/el40_W_0_1.jpg",
+              "name": "8 Oeste F1 C2",
+              "regions": []
+            },
+            "0_2": {
+              "imgData": "fotos/el40_W_0_2.jpg",
+              "name": "8 Oeste F1 C3",
+              "regions": []
+            },
+            "0_3": {
+              "imgData": "fotos/el40_W_0_3.jpg",
+              "name": "8 Oeste F1 C4",
+              "regions": []
+            },
+            "0_4": {
+              "imgData": "fotos/el40_W_0_4.jpg",
+              "name": "8 Oeste F1 C5",
+              "regions": []
+            },
+            "0_5": {
+              "imgData": "fotos/el40_W_0_5.jpg",
+              "name": "8 Oeste F1 C6",
+              "regions": []
+            }
+          }
+        },
+        "S": {
+          "cols": 4,
+          "rows": 2,
+          "cells": {}
+        },
+        "E": {
+          "cols": 5,
+          "rows": 1,
+          "cells": {
+            "0_0": {
+              "imgData": "fotos/el40_E_0_0.jpg",
+              "name": "8 Este F1 C1",
+              "regions": []
+            },
+            "0_1": {
+              "imgData": "fotos/el40_E_0_1.jpg",
+              "name": "8 Este F1 C2",
+              "regions": []
+            },
+            "0_2": {
+              "imgData": "fotos/el40_E_0_2.jpg",
+              "name": "8 Este F1 C3",
+              "regions": []
+            },
+            "0_3": {
+              "imgData": "fotos/el40_E_0_3.jpg",
+              "name": "8 Este F1 C4",
+              "regions": []
+            },
+            "0_4": {
+              "imgData": "fotos/el40_E_0_4.jpg",
+              "name": "8 Este F1 C5",
+              "regions": []
+            }
+          }
+        }
+      }
+    },
+    "100": {
+      "faces": {
+        "N": {
+          "cols": 12,
+          "rows": 1,
+          "cells": {
+            "0_7": {
+              "imgData": "fotos/el100_N_0_7.jpg",
+              "name": "Pared Norte Norte T18",
+              "regions": []
+            },
+            "0_8": {
+              "imgData": "fotos/el100_N_0_8.jpg",
+              "name": "Pared Norte Norte T19",
+              "regions": []
+            },
+            "0_9": {
+              "imgData": "fotos/el100_N_0_9.jpg",
+              "name": "Pared Norte Norte T110",
+              "regions": []
+            },
+            "0_10": {
+              "imgData": "fotos/el100_N_0_10.jpg",
+              "name": "Pared Norte Norte T111",
+              "regions": []
+            },
+            "0_11": {
+              "imgData": "fotos/el100_N_0_11.jpg",
+              "name": "Pared Norte Norte T112",
+              "regions": []
+            },
+            "0_3": {
+              "imgData": "fotos/el100_N_0_3.jpg",
+              "name": "Pared Norte Norte T14",
+              "regions": []
+            },
+            "0_4": {
+              "imgData": "fotos/el100_N_0_4.jpg",
+              "name": "Pared Norte Norte T15",
+              "regions": []
+            },
+            "0_5": {
+              "imgData": "fotos/el100_N_0_5.jpg",
+              "name": "Pared Norte Norte T16",
+              "regions": []
+            },
+            "0_6": {
+              "imgData": "fotos/el100_N_0_6.jpg",
+              "name": "Pared Norte Norte T17",
+              "regions": []
+            },
+            "0_0": {
+              "imgData": "fotos/el100_N_0_0.jpg",
+              "name": "Pared Norte Norte T11",
+              "regions": []
+            },
+            "0_1": {
+              "imgData": "fotos/el100_N_0_1.jpg",
+              "name": "Pared Norte Norte T12",
+              "regions": []
+            },
+            "0_2": {
+              "imgData": "fotos/el100_N_0_2.jpg",
+              "name": "Pared Norte Norte T13",
+              "regions": []
+            }
+          }
+        }
+      }
+    },
+    "103": {
+      "faces": {
+        "N": {
+          "cols": 22,
+          "rows": 1,
+          "cells": {
+            "0_0": {
+              "imgData": "fotos/el103_N_0_0.jpg",
+              "name": "Pared Oeste Norte T11",
+              "regions": []
+            },
+            "0_1": {
+              "imgData": "fotos/el103_N_0_1.jpg",
+              "name": "Pared Oeste Norte T12",
+              "regions": []
+            },
+            "0_2": {
+              "imgData": "fotos/el103_N_0_2.jpg",
+              "name": "Pared Oeste Norte T13",
+              "regions": []
+            },
+            "0_3": {
+              "imgData": "fotos/el103_N_0_3.jpg",
+              "name": "Pared Oeste Norte T14",
+              "regions": []
+            },
+            "0_4": {
+              "imgData": "fotos/el103_N_0_4.jpg",
+              "name": "Pared Oeste Norte T15",
+              "regions": []
+            },
+            "0_5": {
+              "imgData": "fotos/el103_N_0_5.jpg",
+              "name": "Pared Oeste Norte T16",
+              "regions": []
+            },
+            "0_6": {
+              "imgData": "fotos/el103_N_0_6.jpg",
+              "name": "Pared Oeste Norte T17",
+              "regions": []
+            },
+            "0_7": {
+              "imgData": "fotos/el103_N_0_7.jpg",
+              "name": "Pared Oeste Norte T18",
+              "regions": []
+            },
+            "0_8": {
+              "imgData": "fotos/el103_N_0_8.jpg",
+              "name": "Pared Oeste Norte T19",
+              "regions": []
+            },
+            "0_9": {
+              "imgData": "fotos/el103_N_0_9.jpg",
+              "name": "Pared Oeste Norte T110",
+              "regions": []
+            },
+            "0_10": {
+              "imgData": "fotos/el103_N_0_10.jpg",
+              "name": "Pared Oeste Norte T111",
+              "regions": []
+            },
+            "0_11": {
+              "imgData": "fotos/el103_N_0_11.jpg",
+              "name": "Pared Oeste Norte T112",
+              "regions": []
+            },
+            "0_12": {
+              "imgData": "fotos/el103_N_0_12.jpg",
+              "name": "Pared Oeste Norte T113",
+              "regions": []
+            },
+            "0_13": {
+              "imgData": "fotos/el103_N_0_13.jpg",
+              "name": "Pared Oeste Norte T114",
+              "regions": []
+            },
+            "0_14": {
+              "imgData": "fotos/el103_N_0_14.jpg",
+              "name": "Pared Oeste Norte T115",
+              "regions": []
+            },
+            "0_15": {
+              "imgData": "fotos/el103_N_0_15.jpg",
+              "name": "Pared Oeste Norte T116",
+              "regions": []
+            },
+            "0_16": {
+              "imgData": "fotos/el103_N_0_16.jpg",
+              "name": "Pared Oeste Norte T117",
+              "regions": []
+            },
+            "0_17": {
+              "imgData": "fotos/el103_N_0_17.jpg",
+              "name": "Pared Oeste Norte T118",
+              "regions": []
+            },
+            "0_18": {
+              "imgData": "fotos/el103_N_0_18.jpg",
+              "name": "Pared Oeste Norte T119",
+              "regions": []
+            },
+            "0_19": {
+              "imgData": "fotos/el103_N_0_19.jpg",
+              "name": "Pared Oeste Norte T120",
+              "regions": []
+            },
+            "0_20": {
+              "imgData": "fotos/el103_N_0_20.jpg",
+              "name": "Pared Oeste Norte T121",
+              "regions": []
+            },
+            "0_21": {
+              "imgData": "fotos/el103_N_0_21.jpg",
+              "name": "Pared Oeste Norte T122",
+              "regions": []
+            }
+          }
+        }
+      }
+    },
+    "104": {
+      "faces": {
+        "N": {
+          "cols": 6,
+          "rows": 1,
+          "cells": {
+            "0_0": {
+              "imgData": "fotos/el104_N_0_0.jpg",
+              "name": "Pared Escalón H Norte T11",
+              "regions": []
+            },
+            "0_1": {
+              "imgData": "fotos/el104_N_0_1.jpg",
+              "name": "Pared Escalón H Norte T12",
+              "regions": []
+            },
+            "0_2": {
+              "imgData": "fotos/el104_N_0_2.jpg",
+              "name": "Pared Escalón H Norte T13",
+              "regions": []
+            },
+            "0_3": {
+              "imgData": "fotos/el104_N_0_3.jpg",
+              "name": "Pared Escalón H Norte T14",
+              "regions": []
+            },
+            "0_4": {
+              "imgData": "fotos/el104_N_0_4.jpg",
+              "name": "Pared Escalón H Norte T15",
+              "regions": []
+            },
+            "0_5": {
+              "imgData": "fotos/el104_N_0_5.jpg",
+              "name": "Pared Escalón H Norte T16",
+              "regions": []
+            }
+          }
+        }
+      }
+    },
+    "210": {
+      "faces": {
+        "N": {
+          "cols": 12,
+          "rows": 1,
+          "cells": {
+            "0_0": {
+              "imgData": "fotos/el210_N_0_0.jpg",
+              "name": "Pared 210 Norte T11",
+              "regions": []
+            },
+            "0_1": {
+              "imgData": "fotos/el210_N_0_1.jpg",
+              "name": "Pared 210 Norte T12",
+              "regions": []
+            },
+            "0_2": {
+              "imgData": "fotos/el210_N_0_2.jpg",
+              "name": "Pared 210 Norte T13",
+              "regions": []
+            },
+            "0_3": {
+              "imgData": "fotos/el210_N_0_3.jpg",
+              "name": "Pared 210 Norte T14",
+              "regions": []
+            },
+            "0_4": {
+              "imgData": "fotos/el210_N_0_4.jpg",
+              "name": "Pared 210 Norte T15",
+              "regions": []
+            },
+            "0_5": {
+              "imgData": "fotos/el210_N_0_5.jpg",
+              "name": "Pared 210 Norte T16",
+              "regions": []
+            },
+            "0_6": {
+              "imgData": "fotos/el210_N_0_6.jpg",
+              "name": "Pared 210 Norte T17",
+              "regions": []
+            },
+            "0_7": {
+              "imgData": "fotos/el210_N_0_7.jpg",
+              "name": "Pared 210 Norte T18",
+              "regions": []
+            },
+            "0_8": {
+              "imgData": "fotos/el210_N_0_8.jpg",
+              "name": "Pared 210 Norte T19",
+              "regions": []
+            },
+            "0_9": {
+              "imgData": "fotos/el210_N_0_9.jpg",
+              "name": "Pared 210 Norte T110",
+              "regions": []
+            },
+            "0_10": {
+              "imgData": "fotos/el210_N_0_10.jpg",
+              "name": "Pared 210 Norte T111",
+              "regions": []
+            },
+            "0_11": {
+              "imgData": "fotos/el210_N_0_11.jpg",
+              "name": "Pared 210 Norte T112",
+              "regions": []
+            }
+          }
+        }
+      }
+    },
+    "211": {
+      "faces": {
+        "N": {
+          "cols": 21,
+          "rows": 1,
+          "cells": {
+            "0_10": {
+              "imgData": "fotos/el211_N_0_10.jpg",
+              "name": "Pared 211 Norte T111",
+              "regions": []
+            },
+            "0_11": {
+              "imgData": "fotos/el211_N_0_11.jpg",
+              "name": "Pared 211 Norte T112",
+              "regions": []
+            },
+            "0_12": {
+              "imgData": "fotos/el211_N_0_12.jpg",
+              "name": "Pared 211 Norte T113",
+              "regions": []
+            },
+            "0_13": {
+              "imgData": "fotos/el211_N_0_13.jpg",
+              "name": "Pared 211 Norte T114",
+              "regions": []
+            },
+            "0_14": {
+              "imgData": "fotos/el211_N_0_14.jpg",
+              "name": "Pared 211 Norte T115",
+              "regions": []
+            },
+            "0_15": {
+              "imgData": "fotos/el211_N_0_15.jpg",
+              "name": "Pared 211 Norte T116",
+              "regions": []
+            },
+            "0_16": {
+              "imgData": "fotos/el211_N_0_16.jpg",
+              "name": "Pared 211 Norte T117",
+              "regions": []
+            },
+            "0_17": {
+              "imgData": "fotos/el211_N_0_17.jpg",
+              "name": "Pared 211 Norte T118",
+              "regions": []
+            },
+            "0_18": {
+              "imgData": "fotos/el211_N_0_18.jpg",
+              "name": "Pared 211 Norte T119",
+              "regions": []
+            },
+            "0_19": {
+              "imgData": "fotos/el211_N_0_19.jpg",
+              "name": "Pared 211 Norte T120",
+              "regions": []
+            },
+            "0_20": {
+              "imgData": "fotos/el211_N_0_20.jpg",
+              "name": "Pared 211 Norte T121",
+              "regions": []
+            }
+          }
+        }
+      }
+    },
+    "218": {
+      "faces": {
+        "N": {
+          "cols": 4,
+          "rows": 1,
+          "cells": {
+            "0_0": {
+              "imgData": "fotos/el218_N_0_0.jpg",
+              "name": "Pared 218 Norte T11",
+              "regions": []
+            },
+            "0_1": {
+              "imgData": "fotos/el218_N_0_1.jpg",
+              "name": "Pared 218 Norte T12",
+              "regions": []
+            },
+            "0_2": {
+              "imgData": "fotos/el218_N_0_2.jpg",
+              "name": "Pared 218 Norte T13",
+              "regions": []
+            },
+            "0_3": {
+              "imgData": "fotos/el218_N_0_3.jpg",
+              "name": "Pared 218 Norte T14",
+              "regions": []
+            }
+          }
+        }
+      }
+    },
+    "225": {
+      "faces": {
+        "N": {
+          "cols": 15,
+          "rows": 1,
+          "cells": {
+            "0_0": {
+              "imgData": "fotos/el225_N_0_0.jpg",
+              "name": "Pared 221 Norte T11",
+              "regions": []
+            },
+            "0_1": {
+              "imgData": "fotos/el225_N_0_1.jpg",
+              "name": "Pared 221 Norte T12",
+              "regions": []
+            },
+            "0_2": {
+              "imgData": "fotos/el225_N_0_2.jpg",
+              "name": "Pared 221 Norte T13",
+              "regions": []
+            },
+            "0_3": {
+              "imgData": "fotos/el225_N_0_3.jpg",
+              "name": "Pared 221 Norte T14",
+              "regions": []
+            },
+            "0_4": {
+              "imgData": "fotos/el225_N_0_4.jpg",
+              "name": "Pared 221 Norte T15",
+              "regions": []
+            },
+            "0_5": {
+              "imgData": "fotos/el225_N_0_5.jpg",
+              "name": "Pared 221 Norte T16",
+              "regions": []
+            },
+            "0_6": {
+              "imgData": "fotos/el225_N_0_6.jpg",
+              "name": "Pared 221 Norte T17",
+              "regions": []
+            },
+            "0_7": {
+              "imgData": "fotos/el225_N_0_7.jpg",
+              "name": "Pared 221 Norte T18",
+              "regions": []
+            },
+            "0_8": {
+              "imgData": "fotos/el225_N_0_8.jpg",
+              "name": "Pared 221 Norte T19",
+              "regions": []
+            },
+            "0_9": {
+              "imgData": "fotos/el225_N_0_9.jpg",
+              "name": "Pared 221 Norte T110",
+              "regions": []
+            },
+            "0_10": {
+              "imgData": "fotos/el225_N_0_10.jpg",
+              "name": "Pared 221 Norte T111",
+              "regions": []
+            },
+            "0_11": {
+              "imgData": "fotos/el225_N_0_11.jpg",
+              "name": "Pared 221 Norte T112",
+              "regions": []
+            },
+            "0_12": {
+              "imgData": "fotos/el225_N_0_12.jpg",
+              "name": "Pared 221 Norte T113",
+              "regions": []
+            },
+            "0_13": {
+              "imgData": "fotos/el225_N_0_13.jpg",
+              "name": "Pared 221 Norte T114",
+              "regions": []
+            },
+            "0_14": {
+              "imgData": "fotos/el225_N_0_14.jpg",
+              "name": "Pared 221 Norte T115",
+              "regions": []
+            }
+          }
+        }
+      }
+    },
+    "233": {
+      "faces": {
+        "N": {
+          "cols": 1,
+          "rows": 1,
+          "cells": {
+            "0_0": {
+              "imgData": "fotos/el233_N_0_0.jpg",
+              "name": "Pared 233 Norte T11",
+              "regions": []
+            }
+          }
+        }
+      }
+    }
+  },
+  "shoppingList": [],
+  "_format": "zip-v1"
+}
